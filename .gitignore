@@ -1,3 +1,5 @@
 creds/*
 .terraform/*
 terraform
+*.tfstate
+*.tfstate.backup
